@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a first-year Ph.D student in [the Department of Sociology of The Chinese University of Hong Kong](http://www.soc.cuhk.edu.hk/).
+* I'm a first-year Ph.D student in the [Department of Sociology of The Chinese University of Hong Kong](http://www.soc.cuhk.edu.hk/).
 * I'm very lucky to have [LEE Jaemin](https://jaeminlee.mystrikingly.com/) and [TAM Tony Hong wing](http://www.soc.cuhk.edu.hk/profile/tam-tony-hong-wing/) be my advisors.
 * My research interests lie in the general area of computational social science, political communication, Text-as-data, and social network analysis.
 
