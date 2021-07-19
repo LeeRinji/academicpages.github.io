@@ -17,7 +17,7 @@ author_profile: true
 
 ## Interest
 
-* <b>Go:<b> 5 dan
+* <b>Go(Weiqi):<b> 5 dan
     * Team Championship in College Students in China-International Students and Alumni in Singapore Weiqi Series
     * Team Championship in Guangzhou Amateur Go League
     * The 27th place of University Students Go League in Guangdong
