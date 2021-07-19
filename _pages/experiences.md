@@ -13,4 +13,4 @@ author_profile: true
     * M.Sc in Big Data Technology, School of Engineering, Sep 2020 - May 2021
 * <b>Sun Yat-sen University</b>
     * B.Eng in Intelligence Science and Technology, School of Computer Science and Engineering, Aug 2016 - Jun 2020
-    * Minor in Politics and Administration, School of Government Aug 2016 - Jun 2020
+    * Minor in Politics and Administration, School of Government, Aug 2016 - Jun 2020
