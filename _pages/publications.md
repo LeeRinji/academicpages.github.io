@@ -6,8 +6,6 @@ author_profile: true
 ---
 *Sorted by first publication date.*
 
-## Preprints
-
 ## Not Intended to Publish
 
 <b>Mathematical Modeling: Evaluation of Information Technology Governance Ability of Chinese Local Governments (In Chinese)</b><br>
