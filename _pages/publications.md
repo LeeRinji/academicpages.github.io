@@ -4,13 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*Sorted by first publication date.*
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprints
 
-{% include base_path %}
+## Not Intended to Publish
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Mathematical Modeling: Evaluation of Information Technology Governance Ability of Chinese Local Governments (In Chinese)</b><br>
+LIU Jiayi, <b>LI Yujie</b>, LIANG Jitong, LIN Xiaoting.<br>
+
+<b>Design and Implementation of Horizontal Federated Learning Algorithm for Privacy Pro-tection Based on TextCNN (In Chinese)</b><br>
+<b>LI Yujie.</b><br>
