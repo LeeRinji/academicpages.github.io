@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 ---
 
