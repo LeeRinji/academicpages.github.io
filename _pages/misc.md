@@ -7,7 +7,8 @@ author_profile: true
 
 ## Contact
 
-* Email: yjli [at] link [dot] cuhk [dot] edu [dot] hk, ylilc [at] connect [dot] ust [dot] hk
+* Email: yjli [at] link [dot] cuhk [dot] edu [dot] hk
+         ylilc [at] connect [dot] ust [dot] hk
 
 ## Skills
 
