@@ -14,3 +14,6 @@ author_profile: true
 * <b>Sun Yat-sen University</b>
     * B.Eng in Intelligence Science and Technology, School of Computer Science and Engineering, Aug 2016 - Jun 2020
     * Minor in Politics and Administration, School of Government, Aug 2016 - Jun 2020
+
+## Teaching
+* Teaching Assistant, SOCI 3229 Quantitative Data Analysis, The Chinese University of Hong Kong, Fall 2021
