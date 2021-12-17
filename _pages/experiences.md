@@ -17,3 +17,4 @@ author_profile: true
 
 ## Teaching
 * Teaching Assistant, SOCI 3229 Quantitative Data Analysis, The Chinese University of Hong Kong, Fall 2021
+* Teaching Assistant, SOCI 3238 Digital Sociology, The Chinese University of Hong Kong, Spring 2022
