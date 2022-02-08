@@ -8,7 +8,7 @@ author_profile: true
 
 ## In Process
 <b>How Sudden Surveillance Exacerbate Mobilization: Evidence from a Quasi-Natural Experiment</b><br>
-XIA Ying, WANG Chengli*, <b>LI Yujie</b><br>
+XIA Ying, WANG Chengli*, <b>LI Yujie.</b><br>
   
 ## Not Intended to Publish
 
