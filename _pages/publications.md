@@ -1,19 +1,25 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Manuscripts"
 permalink: /publications/
 author_profile: true
 ---
 *Sorted by first publication date.*
 
 ## Working Papers
-<b>How Sudden Surveillance Exacerbate Mobilization: Evidence from a Quasi-Natural Experiment</b><br>
-XIA Ying, WANG Chengli*, <b>LI Yujie.</b><br>
-  
-## Not Intended to Publish
+<b>Diffusion of Ideas in Social Networks: An Analysis of Korean Hip-hop Artists Collaboration Networks</b><br>
+<b>Yujie LI</b>, Jaemin Lee<br>
 
-<b>Mathematical Modeling: Evaluation of Information Technology Governance Ability of Chinese Local Governments (In Chinese)</b><br>
-LIU Jiayi, <b>LI Yujie</b>, LIANG Jitong, LIN Xiaoting.<br>
+## Under Journal Review
+<b>Comparing Modularity Scores across Different Social Networks: Cautions, Illustrations, and Suggestions</b><br>
+Zhu Ling, Hai Liang, Ji Cao, <b>Yujie Li</b>, Xiaoqian Yue, Ruihui Tian, and Donghang Qi
+Under review. Sociological Methods and Research<br>
 
-<b>Design and Implementation of Horizontal Federated Learning Algorithm for Privacy Protection Based on TextCNN (In Chinese)</b><br>
-<b>LI Yujie.</b><br>
+<b>A Machine Learning Approach to Preferential Attachment and Status Advantage</b><br>
+Jaemin Lee,<b>Yujie LI</b><br>
+Under review. Sociological Methods and Research<br>
+
+## Refereed Papers
+<b>Activity Constraints as a Mechanism for Non-scale-free Social Networks</b><br>
+Jaemin Lee,<b>Yujie LI</b><br>
+Proceedings of the XIII International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2024)<br>
