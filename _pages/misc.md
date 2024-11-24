@@ -8,7 +8,6 @@ author_profile: true
 ## Contact
 
 * Email: yjli [at] link [dot] cuhk [dot] edu [dot] hk
-* Email: ylilc [at] connect [dot] ust [dot] hk
 
 ## Skills
 
