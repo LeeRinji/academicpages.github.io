@@ -5,4 +5,4 @@ permalink: /resume/
 author_profile: true
 ---
 
-Here’s my [resume](../MyOwnPdf/resume.pdf), which was last updated in Mar 2021.
+Here’s my [resume](../MyOwnPdf/resume.pdf), which was last updated in November 2024.
