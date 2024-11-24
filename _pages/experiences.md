@@ -16,7 +16,8 @@ author_profile: true
     * Minor in Politics and Administration, School of Government, Aug 2016 - Jun 2020
 
 ## Teaching
-* Teaching Assistant, SOCI 3229 Quantitative Data Analysis, The Chinese University of Hong Kong, Fall 2021
-* Teaching Assistant, SOCI 3238 Digital Sociology, The Chinese University of Hong Kong, Spring 2022
+* Teaching Assistant, SOCI 3229 Quantitative Data Analysis, The Chinese University of Hong Kong, Fall 2021 & Spring 2024
+* Teaching Assistant, SOCI 3238 Digital Sociology, The Chinese University of Hong Kong, Spring 2022 & Fall 2023
 * Teaching Assistant, SOCI 3102 Social Networks and Social Capital, The Chinese University of Hong Kong, Fall 2022
 * Teaching Assistant, SOCI 2004 Social Statistics, The Chinese University of Hong Kong, Spring 2023
+* Teaching Assistant, GEJC 1020 The Hong Kong Story, The Chinese University of Hong Kong, Fall 2024
