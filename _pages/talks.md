@@ -15,7 +15,8 @@ INSNA Sunbelt Social Networks Conference, Edinburgh, UK. June 2024.<br>
 American Sociological Association Annual Meeting, Montreal, Canada. August 2024.<br>
 
 <b>Online Social Network Structure and Offline Protests: Envidence From Hong Kong LIHKG Forum
-with XIA Ying*, LUO Fangzhi.</b><br>
+</b><br>
+with XIA Ying*, LUO Fangzhi.<br>
 Summer Institute of Computational Social Science at Hong Kong, Hong Kong, Jun 2021<br>
 Communication University of China, Beijing, May 2021.
 
