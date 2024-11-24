@@ -12,7 +12,7 @@ author_profile: true
 
 ## Under Journal Review
 <b>Comparing Modularity Scores across Different Social Networks: Cautions, Illustrations, and Suggestions</b><br>
-Zhu Ling, Hai Liang, Ji Cao, <b>Yujie Li</b>, Xiaoqian Yue, Ruihui Tian, and Donghang Qi
+Zhu Ling, Hai Liang, Ji Cao, <b>Yujie Li</b>, Xiaoqian Yue, Ruihui Tian, and Donghang Qi<br>
 Under review. Sociological Methods and Research<br>
 
 <b>A Machine Learning Approach to Preferential Attachment and Status Advantage</b><br>
