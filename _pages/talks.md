@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited Talks & Workshops"
 permalink: /talks/
 author_profile: true
 ---
+
+<b>Subjective Well-being of Contemporary Chinese Residents</b><br>
+Workshop on Social Governance in the New Era, Shenzhen, China. January 2026.
 
 <b>Activity Constraints as a Mechanism for Non-scale-free Social Networks</b><br>
 with LEE Jaemin*.<br>
@@ -12,7 +15,7 @@ Complex Networks and their Applications, Istanbul, Turkey. December 2024.
 <b>A Machine Learning Approach to Preferential Attachment and Status Advantage</b><br>
 with LEE Jaemin*.<br>
 INSNA Sunbelt Social Networks Conference, Edinburgh, UK. June 2024.<br>
-American Sociological Association Annual Meeting, Montreal, Canada. August 2024.<br>
+Invited Presentation, AI and Data for Social Good, Yonsei University. May 2024.<br>
 
 <b>Online Social Network Structure and Offline Protests: Envidence From Hong Kong LIHKG Forum
 </b><br>
