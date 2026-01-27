@@ -7,7 +7,7 @@ author_profile: true
 
 ## Contact
 
-* Email: yjli [at] link [dot] cuhk [dot] edu [dot] hk
+* Email: liyujie1 [at] cuhk [dot] edu [dot] cn
 
 ## Skills
 
