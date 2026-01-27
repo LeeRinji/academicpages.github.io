@@ -12,7 +12,7 @@ author_profile: true
 
 ## Under Journal Review
 <b>Activity Constraints and the Emergence of Non-scale-free Networks: Evidence from Hip-hop and Academia</b><br>
-Jaemin LEE, <b>Yujie LI</b><br>
+Jaemin LEE, <b>Yujie LI</b> (equal contributions)<br>.
 
 <b>Comparing Modularity Scores across Different Social Networks: Cautions, Illustrations, and Suggestions</b><br>
 Ling ZHU, Hai LIANG, Ji CAO, <b>Yujie LI</b>, Xiaoqian YUE, Ruihui TIAN, and Donghang QI.<br>
