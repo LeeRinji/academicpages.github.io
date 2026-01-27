@@ -9,6 +9,7 @@ author_profile: true
 
 * <b>The Chinese University of Hong Kong (Shenzhen)</b>
    * Assistant Professor, Division of Computational Social Science, Starting from March 2026
+
 ## Education
 
 * <b>The Chinese University of Hong Kong</b>
