@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "LI, Yujie"
   avatar           : "111.jpg"
-  bio              : "Department of Sociology, The Chinese University of Hong Kong"
-  location         : "Shatin, HKSAR"
+  bio              : "Division of Computational Social Science, The Chinese University of Hong Kong (Shenzhen)"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "ylilc@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=FQBYgkWz18AC"
+  email            : "liyujie1@cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
