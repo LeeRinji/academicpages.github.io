@@ -8,7 +8,7 @@ author_profile: true
 ## Employment
 
 * <b>The Chinese University of Hong Kong (Shenzhen)</b>
-   * Assistant Professor, Division of Computational Social Science, Starting from March 2026
+   * Assistant Professor, Division of Computational Social Science, Mar 2026 - Present
 
 ## Education
 
