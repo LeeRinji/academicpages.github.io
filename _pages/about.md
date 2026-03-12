@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I'm an Assistant Professor (officially starting from March 2026) in the [Divison of Computational Social Science of The Chinese University of Hong Kong (Shenzhen)](https://hss.cuhk.edu.cn/en/taxonomy/term/288).
+* I'm an Assistant Professor in the [Divison of Computational Social Science of The Chinese University of Hong Kong (Shenzhen)](https://hss.cuhk.edu.cn/en/taxonomy/term/288).
 
-* My research interests lie in the general area of computational social science, social networks, big data analytics, and complex networks.
+* My research interests lie in the general area of computational social science, social networks, political communication, big data analytics, and complex networks.
 
 * My name written in Chinese is *李宇杰*. Sometimes, I write my name *LI Yujie* as *Lee Rinji*.
 
