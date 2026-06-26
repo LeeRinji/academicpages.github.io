@@ -8,7 +8,7 @@ author_profile: true
 ## Employment
 
 * <b>The Chinese University of Hong Kong (Shenzhen)</b>
-   * Assistant Professor, Tenure-Track, Division of Computational Social Science, School of Humanities and Social Science, Mar 2026–Present
+   * Assistant Professor (Tenure-Track), Division of Computational Social Science, School of Humanities and Social Science, Mar 2026–Present
 
 ## Education
 
