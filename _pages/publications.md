@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-\* Equal contribution. † Corresponding author.*
+\* Equal contribution. † Corresponding author.
 
 ## Refereed Journal Articles
 
