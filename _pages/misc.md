@@ -11,7 +11,7 @@ author_profile: true
 
 ## Skills
 
-* <b>Computer Languages:</b> C/C++, Python, Golang, LaTeX
-* <b>Languages:</b> Mandarin, English
-* <b>Platform:</b> Pytorch, Spark, Scikit-learn, NetworkX, DGL
-* <b>Interest:</b> Weiqi(Go, 5 dan)
+* <b>Programming:</b> Python, R, SQL, C/C++, LaTeX
+* <b>Tools and Libraries:</b> PyTorch, scikit-learn, NetworkX, Spark, DGL
+* <b>Languages:</b> Mandarin Chinese, English
+* <b>Personal Interest:</b> Weiqi / Go, 5 dan
