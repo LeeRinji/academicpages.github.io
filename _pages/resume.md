@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /CV/
 author_profile: true
 ---
 
-Here’s my [resume](../MyOwnPdf/resume.pdf), which was last updated in January 2026.
+Here’s my [CV](../MyOwnPdf/CV_LI_Yujie.pdf), which was last updated in June 2026.
